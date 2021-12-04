@@ -14,7 +14,11 @@ Built a simple python client to handle common flows done with the firebase authe
 - create a python virtual environment
 - start the virual environment
 - install the requirements.txt
-- run the client as follows: python client.py help to see the commands that currently work
+- to see the commands that currently work run the client as follows: 
+~~~
+python client.py help 
+~~~
 
 
-NB: This is still a work in progress and is written for learning purpose attempting to levrage the pyrebase4 library. you can intereact directly with the firebase api by using the rest api documentation found [here](https://firebase.google.com/docs/reference/rest/auth)
+
+NB: This is still a work in progress and is written for learning purpose attempting to leverage the pyrebase4 library. you can intereact directly with the firebase api by using the rest api documentation found [here](https://firebase.google.com/docs/reference/rest/auth)
